@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body{width:950px; margin: 0 auto; font-family: '맑은 고딕', verdana, 'Malgun Gothic'}
+			a:link{text-decoration:none; color:black; font-weight : bold}
+			a:visited{color:black}
+			a:hover{text-decoration:underline;color:red}
+			a:active{color:black}
+			/*하이퍼링크에대한 디자인 적용*/
+			ul {list-style-type:none; padding-bottom:10px;}
+			ul li{float: left ; margin-left:100px; }
+			/*hr 상단 메뉴디자인*/
+			hr {border:1px solid black; clear:both;}
+			/*hr 태그 디자인*/
+			p{text-align:center;}
+			/* 꼬리말 영역 텍스트 정렬*/
+			#contents {min-hight:1000px; }
+			/* 본문영영 디자인*/
+			img {display:block; margin-left:auto; margin-right:auto;}
